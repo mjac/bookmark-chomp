@@ -1,0 +1,8 @@
+{
+	"name": "Bookmark Chomp",
+	"version": "0.1",
+	"manifest_version": 2,
+	"browser_action": { },
+	"permissions": ["bookmarks"],
+	"background": { "page": "background.html" }
+}
