@@ -1,5 +1,5 @@
 {
-	"name": "Bookmark Chomp",
+	"name": "Example chrome extension",
 	"version": "0.1",
 	"manifest_version": 2,
 	"browser_action": { },
